@@ -1,2 +1,16 @@
 user6
 69gA628*
+
+
+-Complete the code on your own machine.
+-Download PuTTY Software.
+-enter the server IP address : 193.227.9.124
+-enter the port number : 55442
+-select SSH protocol.
+
+-the program will open a command prompt of the remote machine.
+-it will ask you for the username and the password. Every pair of students will be
+provided by as username and a password.
+-download FileZilla software. It is software for uploading and downloading files
+from a remote machine.
+-upload your code and try to run it remotely.
